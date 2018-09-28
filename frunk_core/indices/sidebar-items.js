@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Here","Used as an index into an `HList`."],["Suffixed","An index denoting that `Suffix` is just that."],["There","Used as an index into an `HList`."]]});
